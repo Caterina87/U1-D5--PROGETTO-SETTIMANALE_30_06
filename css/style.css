@@ -1,1 +1,79 @@
 /* Your styles here */
+
+/* Impostazioni generali */
+
+body {
+  box-sizing: border-box;
+}
+
+/* Header */
+header {
+  background-color: black;
+  text-align: center;
+}
+.logo {
+  width: 130px;
+  height: 50px;
+  padding-block: 20px;
+}
+
+/* Main */
+
+.first-article {
+  background-image: url(../images/banner.jpg);
+  background-position: center, center;
+  text-align: center;
+  padding: 25px;
+}
+h1 {
+  font-size: xx-large;
+  font-family: "Montserrat", sans-serif;
+  color: #25a2c3;
+  padding-block: 15px;
+  line-height: 1.5;
+}
+
+p {
+  color: #393d41;
+  font-size: 1.2rem;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.65;
+  padding-bottom: 15px;
+}
+
+.button {
+  background-color: #f04c2f;
+  border-color: white;
+  width: 150px;
+  height: 60px;
+  border-radius: 5px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  padding-block: 15px;
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+}
+
+.second-article {
+  text-align: center;
+  padding: 25px;
+  margin: 20px;
+}
+
+h3 {
+  font-size: large;
+  font-family: "Montserrat", sans-serif;
+  color: #25a2c3;
+  padding-block: 15px;
+  line-height: 1.5;
+}
+
+.round-image-notebook {
+  border-radius: 50%;
+  width: 90%;
+}
+
+/* Section */
+
+/* Footer */
