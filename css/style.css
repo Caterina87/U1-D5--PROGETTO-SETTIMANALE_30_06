@@ -74,6 +74,69 @@ h3 {
   width: 90%;
 }
 
-/* Section */
+.red-box {
+  background-color: red;
+  text-align: center;
+  padding-block: 30px;
+  margin-bottom: 30px;
+}
+
+.red-box-title {
+  font-size: xx-large;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  padding-block: 30px;
+  line-height: 1.5;
+}
+
+.red-box-pf {
+  font-size: 1.2rem;
+  color: white;
+  font-style: italic;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.65;
+}
+.red-box-span {
+  color: white;
+  font-size: 1.2rem;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.65;
+}
+
+.third-article {
+  text-align: center;
+}
+
+.box-form {
+  margin: auto;
+  width: 90%;
+  margin-bottom: 30px;
+  border: 3px solid #dee1e3;
+}
+
+img {
+  width: 100%;
+}
 
 /* Footer */
+.footer {
+  background-color: #25a2c3;
+  text-align: center;
+  font-size: 1.2rem;
+  color: white;
+  font-style: italic;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.65;
+}
+
+h2 {
+  font-size: xx-large;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  padding-block: 20px;
+}
+
+.contacts {
+  color: white;
+  font-size: 1em;
+}
